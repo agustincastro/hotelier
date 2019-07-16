@@ -3,6 +3,18 @@
     height: 1.8rem;
 }
 
+.header-nav{
+    height: 3rem;
+}
+
+.navbar-link-icon{
+    margin-right: 0.4rem;
+}
+
+.navbar-upper-right li{
+    margin-right: 1rem;
+}
+
 .btn-xs {
     padding: .7rem .4rem;
     font-size: .875rem;
